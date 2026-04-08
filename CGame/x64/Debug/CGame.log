@@ -1,0 +1,6 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.9.3
+  CGame.cpp
+D:\Users\Li Yunhe\source\repos\CGame\src\CGame.cpp(103,42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\Li Yunhe\source\repos\CGame\src\CGame.cpp(329,42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  CGame.vcxproj -> D:\Users\Li Yunhe\source\repos\CGame\x64\Debug\CGame.exe
